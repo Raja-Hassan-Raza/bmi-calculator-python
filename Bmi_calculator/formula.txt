@@ -1,0 +1,9 @@
+
+      wight(kg)
+BMI= __________
+     (hight(m)2)
+
+
+
+
+2,   bmi = weight_kg / (height_m ** 2)
