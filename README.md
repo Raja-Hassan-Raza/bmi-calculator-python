@@ -8,19 +8,6 @@ A simple command-line BMI (Body Mass Index) calculator built using Python.
 - Categorizes BMI as Underweight, Normal, Overweight, or Obese
 - Basic error handling for invalid inputs
 
-## 🧠 Formula
-
-
-      wight(kg)
-BMI= __________
-     (hight(m)2)
-
-
-
-
-2,   bmi = weight_kg / (height_m ** 2)
-
-
 ## 🚀 How to Run
 ```bash
 python bmi_calculator.py
